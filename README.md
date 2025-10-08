@@ -1,1 +1,1 @@
-# lex-programming
+# compiler-design-lab
